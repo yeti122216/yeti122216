@@ -2,9 +2,9 @@
 
 # Turning Ideas into AI-Powered Digital Experiences
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rstar327&color=blueviolet&style=flat)](https://github.com/rstar327)
-[![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=flat)](https://github.com/rstar327)
-[![GitHub stars](https://img.shields.io/github/stars/rstar327?logo=github&style=flat)](https://github.com/rstar327)
+[![Profile Views](https://komarev.com/ghpvc/?username=yeti122216&color=blueviolet&style=flat)](https://github.com/yeti122216)
+[![GitHub followers](https://img.shields.io/github/followers/yeti122216?logo=GitHub&style=flat)](https://github.com/yeti122216)
+[![GitHub stars](https://img.shields.io/github/stars/yeti122216?logo=github&style=flat)](https://github.com/yeti122216)
 
 ### Transforming ideas into production-ready applications
 
@@ -20,7 +20,7 @@
 <tr>
 <td width="60%" valign="top" align="center" style="border:none;">
 
-<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=rstar327" alt="GitHub Streak"/>
+<!-- <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=yeti122216" alt="GitHub Streak"/> -->
 
 </td>
 <td width="40%" valign="top" style="border:none;">
@@ -43,9 +43,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rstar327/rstar327/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeti122216/yeti122216/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeti122216/yeti122216/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeti122216/yeti122216/output/github-contribution-grid-snake.svg">
 </picture>
 
 </details>
@@ -148,28 +148,28 @@
 <div align="center">
 
 #### Achievements & Milestones
-[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=rstar327&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/rstar327/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=yeti122216&alltime=true&theme=light&margin-w=4&row=1&column=9)](https://github.com/yeti122216/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=rstar327&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
+<img width="60%" src="https://github-stats-mu-nine.vercel.app/api?username=yeti122216&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1116&theme=algolia&hide_border=true" alt="GitHub Stats"/> 
 <!-- <img width="33%" 
-  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=rstar327&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=yeti122216&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 -->
 
 </div>
 
 <div align="center">
 
-<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=rstar327&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeti122216&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://wakatime.com/share/@rstar327/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
+<img width="70%" src="https://wakatime.com/share/@yeti122216/cf237e7a-1786-44d8-907a-0f036f10120a.svg" />
 
 </div>
 
@@ -190,8 +190,8 @@
 **Let's build something amazing together.**
 
 </div>
-<!--<a href="https://u8views.com/github/rstar327">
-  <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="rstar327 profile views">
+<!--<a href="https://u8views.com/github/yeti122216">
+  <img src="https://u8views.com/api/v1/github/profiles/114364448/views/day-week-month-total-count.svg" width="500" alt="yeti122216 profile views">
 </a>
 </div>
 -->
