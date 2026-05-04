@@ -14,16 +14,16 @@
 
 ## About Me
 
-**Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
+I'm a passionate Full Stack Developer with a keen interest in creating exceptional web experiences. My expertise lies in both frontend and backend technologies.
 
 <table>
 <tr>
 <td width="60%" valign="top" align="center" style="border:none;">
 
-<!-- <img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=yeti122216" alt="GitHub Streak"/> -->
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=yeti122216" alt="GitHub Streak"/>
 
 </td>
-<td width="40%" valign="top" style="border:none;">
+<!-- <td width="40%" valign="top" style="border:none;">
 
 ### What Drives Me
 - **End-to-end ownership** — From initial concept to production deployment
@@ -31,7 +31,7 @@
 - **Architecture-first thinking** — Building maintainable, scalable systems
 - **Performance obsessed** — Writing clean, efficient code that delivers results
 - **Continuous learner** — Always exploring emerging technologies and best practices
-</td>
+</td> -->
 
 </tr>
 </table>
