@@ -1,12 +1,12 @@
 <div align="center">
 
-# Turning Ideas into AI-Powered Digital Experiences
+# Transforming ideas into production-ready applications
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yeti122216&color=blueviolet&style=flat)](https://github.com/yeti122216)
 [![GitHub followers](https://img.shields.io/github/followers/yeti122216?logo=GitHub&style=flat)](https://github.com/yeti122216)
 [![GitHub stars](https://img.shields.io/github/stars/yeti122216?logo=github&style=flat)](https://github.com/yeti122216)
 
-### Transforming ideas into production-ready applications
+
 
 </div>
 
